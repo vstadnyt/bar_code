@@ -1,2 +1,2 @@
 # bar_code
-Bar_code_for_sequencing
+Bar code for sequencing
